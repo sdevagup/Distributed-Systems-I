@@ -1,0 +1,157 @@
+java AsyncJokeClient 3245 3246
+Asynchronous Joke Client started with bindings:
+Start first server at 3245
+Start second server at 3246
+
+Enter 1 or 2 to get a joke or proverb from first or second server, or two numbers for sum, quit to exit: 1
+
+Enter 1 or 2 to get a joke or proverb from first or second server, or two numbers for sum, quit to exit: 2
+
+Enter 1 or 2 to get a joke or proverb from first or second server, or two numbers for sum, quit to exit: 1
+
+Enter 1 or 2 to get a joke or proverb from first or second server, or two numbers for sum, quit to exit: 2
+
+Enter 1 or 2 to get a joke or proverb from first or second server, or two numbers for sum, quit to exit: 6 5
+SUM is: 11
+
+Enter 1 or 2 to get a joke or proverb from first or second server, or two numbers for sum, quit to exit: 1
+
+Enter 1 or 2 to get a joke or proverb from first or second server, or two numbers for sum, quit to exit: 2
+
+Enter 1 or 2 to get a joke or proverb from first or second server, or two numbers for sum, quit to exit: 1
+
+Enter 1 or 2 to get a joke or proverb from first or second server, or two numbers for sum, quit to exit: 1
+
+Enter 1 or 2 to get a joke or proverb from first or second server, or two numbers for sum, quit to exit: 2
+
+Enter 1 or 2 to get a joke or proverb from first or second server, or two numbers for sum, quit to exit:
+
+Server B responds: [Joke D] Did you hear about the actor who fell through the floorboards? He was just going through a stage.
+
+Enter 1 or 2 to get a joke or proverb from first or second server, or two numbers for sum, quit to exit:
+
+Server B responds: [Joke B] Why do we tell actors to "break a leg?" Because every play has a cast.
+
+Enter 1 or 2 to get a joke or proverb from first or second server, or two numbers for sum, quit to exit:
+
+Server B responds: [Joke A] Did you hear about the mathematician who's afraid of negative numbers? He'll stop at nothing to avoid them.
+
+Enter 1 or 2 to get a joke or proverb from first or second server, or two numbers for sum, quit to exit:
+
+Server B responds: [Joke C] A bear walks into a bar and says, "Give me a tea and a cola." "Why the big pause?" asks the bartender. The bear shrugged. "I'm not sure; I was born with them."
+
+Enter 1 or 2 to get a joke or proverb from first or second server, or two numbers for sum, quit to exit:
+
+Server B responds: [Joke A] Did you hear about the mathematician who's afraid of negative numbers? He'll stop at nothing to avoid them.
+
+Enter 1 or 2 to get a joke or proverb from first or second server, or two numbers for sum, quit to exit:
+
+Server B responds: [Joke C] A bear walks into a bar and says, "Give me a tea and a cola." "Why the big pause?" asks the bartender. The bear shrugged. "I'm not sure; I was born with them."
+
+Enter 1 or 2 to get a joke or proverb from first or second server, or two numbers for sum, quit to exit:
+
+Server B responds: [Joke A] Did you hear about the mathematician who's afraid of negative numbers? He'll stop at nothing to avoid them.
+
+Enter 1 or 2 to get a joke or proverb from first or second server, or two numbers for sum, quit to exit:
+
+Server B responds: [Joke C] A bear walks into a bar and says, "Give me a tea and a cola." "Why the big pause?" asks the bartender. The bear shrugged. "I'm not sure; I was born with them."
+
+Enter 1 or 2 to get a joke or proverb from first or second server, or two numbers for sum, quit to exit:
+
+Enter 1 or 2 to get a joke or proverb from first or second server, or two numbers for sum, quit to exit:
+
+Server B responds: [Joke B] Why do we tell actors to "break a leg?" Because every play has a cast.
+
+Enter 1 or 2 to get a joke or proverb from first or second server, or two numbers for sum, quit to exit:
+
+Enter 1 or 2 to get a joke or proverb from first or second server, or two numbers for sum, quit to exit:
+
+Enter 1 or 2 to get a joke or proverb from first or second server, or two numbers for sum, quit to exit:
+
+Enter 1 or 2 to get a joke or proverb from first or second server, or two numbers for sum, quit to exit:
+
+
+
+
+java AsyncJokeClientAdmin 3245 3246
+Asynchronous Joke ClientAdmin started up.
+Frist sever start at port: 3245
+Second server start at port: 3246
+Press <Enter> to toggle server mode.
+Input 's' to change server, 'shutdown' for shutdown server, 'quit' to exit:
+s
+Now conntect to Server Second
+Press <Enter> to toggle server mode.
+Input 's' to change server, 'shutdown' for shutdown server, 'quit' to exit:
+s
+Now conntect to Server First
+Press <Enter> to toggle server mode.
+Input 's' to change server, 'shutdown' for shutdown server, 'quit' to exit:
+shutdown
+Press <Enter> to toggle server mode.
+Input 's' to change server, 'shutdown' for shutdown server, 'quit' to exit:
+s
+Now conntect to Server Second
+Press <Enter> to toggle server mode.
+Input 's' to change server, 'shutdown' for shutdown server, 'quit' to exit:
+shutdown
+Press <Enter> to toggle server mode.
+Input 's' to change server, 'shutdown' for shutdown server, 'quit' to exit:
+
+
+
+java AsyncJokeClientAdmin 3245 3246
+Asynchronous Joke ClientAdmin started up.
+Frist sever start at port: 3245
+Second server start at port: 3246
+Press <Enter> to toggle server mode.
+Input 's' to change server, 'shutdown' for shutdown server, 'quit' to exit:
+s
+Now conntect to Server Second
+Press <Enter> to toggle server mode.
+Input 's' to change server, 'shutdown' for shutdown server, 'quit' to exit:
+s
+Now conntect to Server First
+Press <Enter> to toggle server mode.
+Input 's' to change server, 'shutdown' for shutdown server, 'quit' to exit:
+shutdown
+Press <Enter> to toggle server mode.
+Input 's' to change server, 'shutdown' for shutdown server, 'quit' to exit:
+s
+Now conntect to Server Second
+Press <Enter> to toggle server mode.
+Input 's' to change server, 'shutdown' for shutdown server, 'quit' to exit:
+shutdown
+Press <Enter> to toggle server mode.
+Input 's' to change server, 'shutdown' for shutdown server, 'quit' to exit:
+
+
+
+java AsyncJokeClientAdmin 3245 3246
+Asynchronous Joke ClientAdmin started up.
+Frist sever start at port: 3245
+Second server start at port: 3246
+Press <Enter> to toggle server mode.
+Input 's' to change server, 'shutdown' for shutdown server, 'quit' to exit:
+s
+Now conntect to Server Second
+Press <Enter> to toggle server mode.
+Input 's' to change server, 'shutdown' for shutdown server, 'quit' to exit:
+s
+Now conntect to Server First
+Press <Enter> to toggle server mode.
+Input 's' to change server, 'shutdown' for shutdown server, 'quit' to exit:
+shutdown
+Press <Enter> to toggle server mode.
+Input 's' to change server, 'shutdown' for shutdown server, 'quit' to exit:
+s
+Now conntect to Server Second
+Press <Enter> to toggle server mode.
+Input 's' to change server, 'shutdown' for shutdown server, 'quit' to exit:
+shutdown
+Press <Enter> to toggle server mode.
+Input 's' to change server, 'shutdown' for shutdown server, 'quit' to exit:
+
+
+
+

@@ -1,0 +1,31 @@
+Server one: localhost, port 4545
+Server two: localhost, port 4546
+Enter user name: user1's Joke Client, 1.0.
+
+Using serverNow communicating with: locJokeServer's current status :Joke
+JokeServer's status changed toProverb
+W: interrupt received, killing server…
+Key = user1, Value = Name:user1
+jokeIndex: 3
+proverbIndex: 0
+e
+<S2> JokeW: interrupt received, killing server…
+Key = user1, Value = Name:user1
+jokeIndex: 1
+proverbIndex: 0
+by user request.
+quit) to end: Now communicating with: localhost, port 4545
+JB user1 : Why do we tell actors to "break a leg?" Because every play has a cast.
+Enter "s" to switch to secondar joke server,(enter) to query server, (quit) to end: Now communicating with: localhost, port 4545
+JC user1 : A bear walks into a bar and says, "Give me a tea and … cola." "Why the big pause?" asks the bartender. The bear shrugged. "I’m not sure; I was born with them."
+Enter "s" to switch to secondar joke server,(enter) to query server, (quit) to end: Now communicating with: localhost, port 4545
+JD user1 : A bear walks into a bar and says, "Give me a tea and … cola." "Why the big pause?" asks the bartender. The bear shrugged. "I’m not sure; I was born with them."
+Enter "s" to switch to secondar joke server,(enter) to query server, (quit) to end: Now communicating with: localhost, port 4545
+JA user1 : Did you hear about the claustrophobic astronaut? tHe just needed a little space.
+Enter "s" to switch to secondar joke server,(enter) to query server, (quit) to end: Now communicating with: localhost, port 4546
+<S2> JA user1 : A bear walks into a bar and says, "Give me a tea and … cola." "Why the big pause?" asks the bartender. The bear shrugged. "I’m not sure; I was born with them."
+Enter "s" to switch to secondar joke server,(enter) to query server, (quit) to end: Now communicating with: localhost, port 4546
+<S2> JB user1 : Why do we tell actors to "break a leg?" Because every play has a cast.
+Enter "s" to switch to secondar joke server,(enter) to query server, (quit) to end: Now communicating with: localhost, port 4546
+<S2> JC user1 : Did you hear about the mathematician who's afraid of negative numbers? He'll stop at nothing to avoid them.
+Enter "s" to switch to secondar joke server,(enter) to query server, (quit) to end: Cancelled by user request.
